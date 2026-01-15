@@ -15,8 +15,6 @@ http://zteottcdn.ln.chinamobile.com/PLTV/11/224/3221227630/index.m3u8?servicetyp
 http://zteottcdn.ln.chinamobile.com/PLTV/11/224/3221227627/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="未分类" tvg-name="深圳卫视4K" tvg-logo="https://tb.zbds.top/logo/深圳卫视4K.png" epg-url="http://epg.51zmt.top:8000/e.xml",深圳卫视4K
 http://zteottcdn.ln.chinamobile.com/PLTV/11/224/3221227538/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="未分类" tvg-name="深圳卫视4K" tvg-logo="https://tb.zbds.top/logo/深圳卫视4K.png" epg-url="http://epg.51zmt.top:8000/e.xml",深圳卫视4K
-http://zteottcdn.ln.chinamobile.com/PLTV/11/224/3221227626/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="未分类" tvg-name="四川卫视4K" tvg-logo="https://tb.zbds.top/logo/四川卫视4K.png" epg-url="http://epg.51zmt.top:8000/e.xml",四川卫视4K
 http://zteottcdn.ln.chinamobile.com/PLTV/11/224/3221227624/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="未分类" tvg-name="山东卫视4K" tvg-logo="https://tb.zbds.top/logo/山东卫视4K.png" epg-url="http://epg.51zmt.top:8000/e.xml",山东卫视4K
